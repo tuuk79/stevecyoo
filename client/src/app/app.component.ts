@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MdlModule } from 'angular2-mdl';
 
 @Component({
   selector: 'app-root',
