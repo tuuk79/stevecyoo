@@ -10,7 +10,8 @@
     "pree2e": "webdriver-manager update --standalone false --gecko false",
     "e2e": "protractor",
     "heroku-prebuild": "echo Starting installation.",
-    "heroku-postbuild": "echo Finishing installation."
+    "heroku-postbuild": "echo Finishing installation.",
+    "postinstall": "ng build --aot -prod"
   },
   "private": true,
   "dependencies": {
