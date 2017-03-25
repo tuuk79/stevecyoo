@@ -1,2 +1,2 @@
+worker: echo 'starting'
 web: npm install
-web: npm start
