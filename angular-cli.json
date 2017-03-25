@@ -9,8 +9,7 @@
       "outDir": "dist",
       "assets": [
         "assets",
-        "profile-picture.jpg",
-        "favicon.ico"
+        "profile-picture.jpg"
       ],
       "index": "index.html",
       "main": "main.ts",
